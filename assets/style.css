@@ -1,11 +1,18 @@
 header{
-    color: greenyellow;
+    color: yellow;
     background-color: blueviolet;
     
 }
 
 footer{
-    color: plum;
-    background-color: green;
+    color: greenyellow;
+    background-color: blueviolet;
 
+}
+
+img{
+    display:block;
+    margin: 0 auto;
+    width: 10%;
+    height: 10%;
 }
