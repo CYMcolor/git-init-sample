@@ -36,7 +36,7 @@ If your project has a lot of features, list them here.
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
 ## Tests
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-![image](https://github.com/CYMcolor/git-init-sample/assets/17074545/1a0e2bb8-3914-46db-a6c8-f45389938ff3)
+
 
 ## test markdown
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
